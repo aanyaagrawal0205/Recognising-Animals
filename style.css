@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(#dfe3a6 0%, #0ed3d6 100%);
+    font-family: 'Bungee Inline', cursive;
+}
+#start_button{
+    background-color: rgb(255, 208, 0);
+    color: rgb(220, 224, 255);
+}
+.header_div{
+    background:burlywood;
+    color:sandybrown;
+}
+.header_div p{
+    font-family: 'Ballet', cursive;
+    color:rgb(255, 0, 21);
+    letter-spacing: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Parisienne', cursive;
+    margin-top:30px;
+    width: 250px;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    font-size:18px;
+}
+.copy_right_footer {
+    position: fixed;
+    color:navy;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color:slateblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5p grey;
+}
